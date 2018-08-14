@@ -11,6 +11,8 @@ namespace MyApplication
         static void Main(string[] args)
         {
             Console.Write("hallo Welt.");
+
+            Console.Write("hallo Welt.");
         }
     }
 }
